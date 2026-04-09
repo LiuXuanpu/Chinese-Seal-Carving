@@ -8,4 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.scene
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_BuildProfiles: []
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 1ed80a9a47af81047ab83cc8990bf962,
+      type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 184004a830e83af4d8250b3230c0f914,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4e189f099b0df7141a518a8aa88fd0c9,
+      type: 2}
+  m_SlimFeaturesWeixinMiniGame:
+    ACLDecompression: 0
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 0
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
+    RootMotion: 0
+    UseStringInternPool: 2

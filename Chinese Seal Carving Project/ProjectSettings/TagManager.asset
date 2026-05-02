@@ -4,7 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Camera0
+  - Stamp
+  - Paper
   layers:
   - Default
   - TransparentFX

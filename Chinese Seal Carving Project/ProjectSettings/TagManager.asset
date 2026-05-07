@@ -15,8 +15,8 @@ TagManager:
   - UI
   - DepthCamLayer
   - ignore
-  - 
-  - 
+  - ground
+  - StampOnly
   - 
   - 
   - 
